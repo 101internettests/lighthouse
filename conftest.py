@@ -1,7 +1,10 @@
 import os
 import pytest
 from selenium import webdriver
+from dotenv import load_dotenv
 from selenium.webdriver import ChromeOptions
+
+load_dotenv()
 
 
 @pytest.fixture
