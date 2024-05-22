@@ -7,6 +7,7 @@ on:
 
 env:
   HOST_STAGE: ${{ secrets.HOST_STAGE }}
+  HEADLESS: ${{ secrets.HEADLESS }}
 
 permissions:
   contents: read
