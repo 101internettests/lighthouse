@@ -44,7 +44,36 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: lighthouse POL prod
-#          path: |
-#            yandex.xlsx
-#            yandex_msk.xlsx
-#            yandex_spb.xlsx
+          path: |
+            piter-online.net/address.xlsx
+            piter-online.net/actions.xlsx
+            piter-online.net/orders/tohome.xlsx
+            piter-online.net/providers/megafon/rates/domashnij-internet.xlsx
+            piter-online.net/providers/mts/rates/internet-i-mobilnaya-svyaz.xlsx
+            piter-online.net/providers/megafon/rates/internet-i-tv.xlsx
+            piter-online.net/providers/megafon/rates/internet-tv-mobile.xlsx
+            piter-online.net/providers/megafon/rates/nedorogoj-domashnij-internet.xlsx
+            piter-online.net/providers/megafon/rates/online-kinoteatr.xlsx
+            piter-online.net/providers/megafon/rates.xlsx
+            piter-online.net/providers/megafon.xlsx
+            piter-online.net/providers.xlsx
+            piter-online.net/rates.xlsx
+            piter-online.net/rates/domashnij-internet.xlsx
+            piter-online.net/rates/internet-i-mobilnaya-svyaz.xlsx
+            piter-online.net/rates/internet-tv-mobile.xlsx
+            piter-online.net/rates/domashnij-internet.xlsx
+            piter-online.net/rates/internet-i-tv.xlsx
+            piter-online.net/rates/nedorogoj-domashnij-internet.xlsx
+            piter-online.net/rates/internet-100-mbit.xlsx
+            piter-online.net/rates/internet-300-mbit.xlsx
+            piter-online.net/rates/internet-500-mbit.xlsx
+            piter-online.net/rates/online-kinoteatr.xlsx
+            piter-online.net/rates/internet-i-mobilnaya-svyaz.xlsx
+            piter-online.net/rates/internet-tv-mobile.xlsx
+            piter-online.net/rating.xlsx
+            piter-online.net/reviews.xlsx
+            piter-online.net/dom/pr-kt-ekaterininskii-d-2-id1016822.xlsx
+            piter-online.net/address/красногвардейский-id1199/пр-кт-екатерининский-id290913.xlsx
+            piter-online.net/rating/dom-ru.xlsx
+            piter-online.net/dom/ul-krilenko-d-45-k3-id159138.xlsx
+            piter-online.net/doma-nzl.xlsx
