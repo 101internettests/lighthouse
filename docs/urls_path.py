@@ -468,10 +468,10 @@ path_101 = [
         "101internet.ru/ekaterinburg",
         "101internet.ru/chelyabinsk/address/ленинский-id1325/ул-батумская-id285825/d-9a-id286668",
         "101internet.ru/ekaterinburg/address/никулинский-id17489",
-        "101internet.ru/ekaterinburg/address/%D0%BD%D0%B8%D0%BA%D1%83%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-id17489",
-        "101internet.ru/moskva/address/%D0%BE%D1%87%D0%B0%D0%BA%D0%BE%D0%B2%D0%BE-%D0%BC%D0%B0%D1%82%D0%B2%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B5-id1090/%D1%88-%D0%B0%D0%BC%D0%B8%D0%BD%D1%8C%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B5-id267072",
+        "101internet.ru/ekaterinburg/address/никулинский-id17489",
+        "101internet.ru/moskva/address/очаково-матвеевское-id1090/ш-аминьевское-id267072",
         "101internet.ru/moskovskaya-oblast/address/%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4-id1260",
-        "101internet.ru/moskva/address/%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-id1061/%D1%88-%D1%85%D0%BE%D1%80%D0%BE%D1%88-%D0%B2%D1%81%D0%BA%D0%BE%D0%B5-id266420/d-12-k1-id138471",
+        "101internet.ru/moskva/dom/sh-horoshyovskoe-d-12-k1-id138471",
         "101internet.ru/chelyabinsk/doma-nzl"
 ]
 
